@@ -1,0 +1,14 @@
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.exe.config
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.exe
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.pdb
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.exe
+C:\Users\Fernando\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.pdb
+C:\Users\Dan\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.exe.config
+C:\Users\Dan\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.exe
+C:\Users\Dan\source\repos\2 - 8\2 - 8\bin\Debug\2 - 8.pdb
+C:\Users\Dan\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.csprojResolveAssemblyReference.cache
+C:\Users\Dan\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.exe
+C:\Users\Dan\source\repos\2 - 8\2 - 8\obj\Debug\2 - 8.pdb

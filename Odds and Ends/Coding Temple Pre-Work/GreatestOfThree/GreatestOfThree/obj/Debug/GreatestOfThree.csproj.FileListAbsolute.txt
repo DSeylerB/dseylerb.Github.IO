@@ -1,0 +1,12 @@
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.exe.config
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.exe
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.pdb
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.exe
+C:\Users\Fernando\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.pdb
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.exe.config
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.exe
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\bin\Debug\GreatestOfThree.pdb
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.exe
+C:\Users\Dan\source\repos\GreatestOfThree\GreatestOfThree\obj\Debug\GreatestOfThree.pdb

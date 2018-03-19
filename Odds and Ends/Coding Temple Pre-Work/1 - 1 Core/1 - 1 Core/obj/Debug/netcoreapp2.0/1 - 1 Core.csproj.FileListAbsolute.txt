@@ -1,0 +1,11 @@
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\bin\Debug\netcoreapp2.0\1 - 1 Core.deps.json
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\bin\Debug\netcoreapp2.0\1 - 1 Core.runtimeconfig.json
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\bin\Debug\netcoreapp2.0\1 - 1 Core.runtimeconfig.dev.json
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\bin\Debug\netcoreapp2.0\1 - 1 Core.dll
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\bin\Debug\netcoreapp2.0\1 - 1 Core.pdb
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.csprojResolveAssemblyReference.cache
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.AssemblyInfo.cs
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.dll
+C:\Users\Dan\source\repos\1 - 1 Core\1 - 1 Core\obj\Debug\netcoreapp2.0\1 - 1 Core.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\obj\Debug\2 - 3 Hello User.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\bin\Debug\2 - 3 Hello User.exe.config
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\bin\Debug\2 - 3 Hello User.exe
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\bin\Debug\2 - 3 Hello User.pdb
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\obj\Debug\2 - 3 Hello User.exe
+C:\Users\Dan\source\repos\2 - 3 Hello User\2 - 3 Hello User\obj\Debug\2 - 3 Hello User.pdb
