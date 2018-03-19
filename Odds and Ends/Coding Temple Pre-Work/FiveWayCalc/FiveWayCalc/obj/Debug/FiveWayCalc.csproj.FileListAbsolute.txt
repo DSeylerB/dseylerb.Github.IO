@@ -1,7 +1,0 @@
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\obj\Debug\FiveWayCalc.csproj.CoreCompileInputs.cache
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\bin\Debug\FiveWayCalc.exe.config
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\bin\Debug\FiveWayCalc.exe
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\bin\Debug\FiveWayCalc.pdb
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\obj\Debug\FiveWayCalc.exe
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\obj\Debug\FiveWayCalc.pdb
-C:\Users\Fernando\source\repos\FiveWayCalc\FiveWayCalc\obj\Debug\FiveWayCalc.csprojResolveAssemblyReference.cache

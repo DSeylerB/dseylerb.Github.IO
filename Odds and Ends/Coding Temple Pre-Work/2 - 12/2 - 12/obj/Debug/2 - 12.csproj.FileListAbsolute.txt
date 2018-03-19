@@ -1,6 +1,0 @@
-C:\Users\Dan\source\repos\2 - 12\2 - 12\bin\Debug\2 - 12.exe.config
-C:\Users\Dan\source\repos\2 - 12\2 - 12\bin\Debug\2 - 12.exe
-C:\Users\Dan\source\repos\2 - 12\2 - 12\bin\Debug\2 - 12.pdb
-C:\Users\Dan\source\repos\2 - 12\2 - 12\obj\Debug\2 - 12.csproj.CoreCompileInputs.cache
-C:\Users\Dan\source\repos\2 - 12\2 - 12\obj\Debug\2 - 12.exe
-C:\Users\Dan\source\repos\2 - 12\2 - 12\obj\Debug\2 - 12.pdb

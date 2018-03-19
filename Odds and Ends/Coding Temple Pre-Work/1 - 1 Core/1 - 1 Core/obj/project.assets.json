@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\source\\repos\\1 - 1 Core\\1 - 1 Core\\1 - 1 Core.csproj",
+      "projectUniqueName": "C:\\Github\\dseylerb.Github.IO\\Odds and Ends\\Coding Temple Pre-Work\\1 - 1 Core\\1 - 1 Core\\1 - 1 Core.csproj",
       "projectName": "1 - 1 Core",
-      "projectPath": "C:\\Users\\Dan\\source\\repos\\1 - 1 Core\\1 - 1 Core\\1 - 1 Core.csproj",
+      "projectPath": "C:\\Github\\dseylerb.Github.IO\\Odds and Ends\\Coding Temple Pre-Work\\1 - 1 Core\\1 - 1 Core\\1 - 1 Core.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\source\\repos\\1 - 1 Core\\1 - 1 Core\\obj\\",
+      "outputPath": "C:\\Github\\dseylerb.Github.IO\\Odds and Ends\\Coding Temple Pre-Work\\1 - 1 Core\\1 - 1 Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

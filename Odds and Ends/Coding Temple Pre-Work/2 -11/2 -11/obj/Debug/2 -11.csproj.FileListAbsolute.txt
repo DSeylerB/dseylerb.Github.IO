@@ -1,7 +1,0 @@
-C:\Users\Fernando\source\repos\2 -11\2 -11\obj\Debug\2 -11.csprojResolveAssemblyReference.cache
-C:\Users\Fernando\source\repos\2 -11\2 -11\obj\Debug\2 -11.csproj.CoreCompileInputs.cache
-C:\Users\Fernando\source\repos\2 -11\2 -11\bin\Debug\2 -11.exe.config
-C:\Users\Fernando\source\repos\2 -11\2 -11\bin\Debug\2 -11.exe
-C:\Users\Fernando\source\repos\2 -11\2 -11\bin\Debug\2 -11.pdb
-C:\Users\Fernando\source\repos\2 -11\2 -11\obj\Debug\2 -11.exe
-C:\Users\Fernando\source\repos\2 -11\2 -11\obj\Debug\2 -11.pdb
